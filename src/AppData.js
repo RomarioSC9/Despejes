@@ -58,7 +58,7 @@ const AppData = {
               lx: "v_i^2",
               sy: "v_i**2",
             },
-            { lx: "a \\cdot d", sy: "a * d" },
+            //{ lx: "a \\cdot d", sy: "a * d" },
           ],
           variables: ["a", "v_f", "v_i", "d"],
         },
